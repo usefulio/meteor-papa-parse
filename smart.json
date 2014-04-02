@@ -1,0 +1,8 @@
+{
+	"name": "papaparse",
+	"description": "PapaParse.js - Papa is a powerful jQuery plugin that parses CSV (delimited text) input and can handle large files by streaming them.",
+	"homepage": "https://github.com/usefulio/meteor-papa-parse",
+	"version": "0.1.0",
+	"git": "https://github.com/usefulio/meteor-papa-parse.git",
+	"author": "Ian Serlin (https://github.com/usefulio)"
+}
